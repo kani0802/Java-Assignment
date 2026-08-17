@@ -1,6 +1,3 @@
-/*
-Write a program to read 10 integers into an array and find the maximum value using a loop.
-*/
 import java.util.*;
 public class Program9
 {
