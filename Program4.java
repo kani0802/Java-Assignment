@@ -1,8 +1,3 @@
-/*
-Write a program to check if a person is eligible to vote. 
-• Input: age and citizenship status (true or false). 
-• Use logical operators (&&, ||) to decide eligibility.
-*/
 import java.util.*;
 public class Program4
 {
