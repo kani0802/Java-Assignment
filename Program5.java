@@ -1,8 +1,3 @@
-/*
-Write a program that: 
-• Takes two numbers and an operator symbol (+, -, *, /) from the user. 
-• Uses if-else statements to perform the appropriate operation. 
-*/
 import java.util.*;
 public class Program5
 {
