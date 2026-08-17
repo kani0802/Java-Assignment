@@ -1,6 +1,3 @@
-/*
-Ask the user for a number and print its multiplication table from 1 to 10 using a for loop.
-*/
 import java.util.*;
 public class Program6
 {
