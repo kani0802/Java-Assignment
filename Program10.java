@@ -1,13 +1,3 @@
-/*
-Write a program that: 
-• Reads marks of 5 subjects into an array. 
-• Calculates the average marks. 
-• Uses if-else to assign grades: 
-o >= 90: A 
-o >= 75: B 
-o >= 50: C 
-o Else: Fail
-*/
 import java.util.*;
 public class Program10
 {
