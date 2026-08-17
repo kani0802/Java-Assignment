@@ -1,8 +1,3 @@
-/*
-Write a program that: 
-• Reads marks of 5 students into an integer array. 
-• Prints each student’s marks.
-*/
 import java.util.*;
 public class Program8
 {
