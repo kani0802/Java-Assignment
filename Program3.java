@@ -1,6 +1,3 @@
-/*
-Accept two integers from the user and perform addition, subtraction, multiplication, division, and modulus. Display results for each operation.  
-*/
 import java.util.*;
 public class Program3
 {
