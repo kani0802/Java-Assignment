@@ -1,6 +1,3 @@
-/*
-Write a program that uses a while loop to find the sum of all even numbers between 1 and 50. 
-*/
 public class Program7
 {
 	public static void main(String args[])
